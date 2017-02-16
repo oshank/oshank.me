@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/oshank
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://oshank.me
+  * I am oshank (https://keybase.io/oshank) on keybase.
+  * I have a public key ASAlpVuA0Sjrxwi4O0VLvIfvVRK36DBI-tnOIY2I2yQBzwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012025a55b80d128ebc708b83b454bbc87ef5512b7e83048fad9ce218d88db2401cf0a",
+            "host": "keybase.io",
+            "kid": "012025a55b80d128ebc708b83b454bbc87ef5512b7e83048fad9ce218d88db2401cf0a",
+            "uid": "f5b6ca3e00ff1fa04d5c5bbae7772019",
+            "username": "oshank"
+        },
+        "service": {
+            "hostname": "oshank.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487277112,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487277075,
+        "hash": "aa3621524a01e94c6a3de57778c37fc8a000229cd5c128608f076cd22a47a6b97aa754d2bed003eea06d1cfb306a608ea0c406a356b521ddf9e44c15b6b04e1e",
+        "seqno": 897742
+    },
+    "prev": "127a25cc8bfb2650059e4a6c0351548263753ce23e59ef17f4b47b2cc948d72c",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJaVbgNEo68cIuDtFS7yH71USt+gwSPrZziGNiNskAc8Kp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjVhNTViODBkMTI4ZWJjNzA4YjgzYjQ1NGJiYzg3ZWY1NTEyYjdlODMwNDhmYWQ5Y2UyMThkODhkYjI0MDFjZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjVhNTViODBkMTI4ZWJjNzA4YjgzYjQ1NGJiYzg3ZWY1NTEyYjdlODMwNDhmYWQ5Y2UyMThkODhkYjI0MDFjZjBhIiwidWlkIjoiZjViNmNhM2UwMGZmMWZhMDRkNWM1YmJhZTc3NzIwMTkiLCJ1c2VybmFtZSI6Im9zaGFuayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoib3NoYW5rLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NzI3NzExMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg3Mjc3MDc1LCJoYXNoIjoiYWEzNjIxNTI0YTAxZTk0YzZhM2RlNTc3NzhjMzdmYzhhMDAwMjI5Y2Q1YzEyODYwOGYwNzZjZDIyYTQ3YTZiOTdhYTc1NGQyYmVkMDAzZWVhMDZkMWNmYjMwNmE2MDhlYTBjNDA2YTM1NmI1MjFkZGY5ZTQ0YzE1YjZiMDRlMWUiLCJzZXFubyI6ODk3NzQyfSwicHJldiI6IjEyN2EyNWNjOGJmYjI2NTAwNTllNGE2YzAzNTE1NDgyNjM3NTNjZTIzZTU5ZWYxN2Y0YjQ3YjJjYzk0OGQ3MmMiLCJzZXFubyI6MTcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAoTORBIfGBZrMBT1RHoQvFZu7LBuilAINRzB81v486mCnu7mmhiY7O3slaJXh4vG8Bf2vvPWHUyqZNU1fOhUJCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM3ztV+ZHM/AxNQg2dG4HC5CRepW0dVG20jzizxe3hAVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oshank
+
+==================================================================
