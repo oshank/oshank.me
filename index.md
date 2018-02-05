@@ -18,7 +18,9 @@ Statistics and probability, Calculus, Econometrics.
 
   * Sitting for P in May 2018, planning to take FM in November 2018. 
 
-#### App Developer	MultiWallet for Windows Phone
+#### App Developer
+
+* MultiWallet for Windows Phone
 
   * Designed to interact with an API for an Online Bitcoin wallet
   * Built using C# and XAML
