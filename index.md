@@ -1,8 +1,8 @@
-<img src="CSU-Ram-357-2.png" width="75" height="75">
-
 # Oliver Shanklin
 
-**Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.**
+Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.
+
+<img src="CSU-Ram-357-2.png" width="75" height="75">
 
 oliver@shanklin.email
 
