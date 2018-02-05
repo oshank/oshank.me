@@ -1,6 +1,6 @@
 # Oliver Shanklin
 
-### Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.
+**Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.**
 
 oliver@shanklin.email
 
@@ -33,7 +33,8 @@ Statistics and probability, Calculus, Econometrics.
   * Big Al’s Burgers, *2016-Present*
   * Mollyo’s Breakfast, *Summers 2009-2017*
 
-### Education
+
+## Education
 
 *2013 - 2018*
 Mathematics, Actuary Science, **Colorado State University**
