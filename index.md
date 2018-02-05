@@ -1,15 +1,18 @@
 # Oliver Shanklin
 
-Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.
+### Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.
+
 oliver@shanklin.email
 
-### Skills and Abilities
+## Skills and Abilities
 
 **Proficiencies:**
+
 R, Python (NumPy and Pandas), SQL, MongoDB, PHP, C#, Bash, Linux, MATLAB, Excel (VBA), Angular.js, TI Basic.
+
 Statistics and probability, Calculus, Econometrics.
 
-### Experience
+## Experience
 
 #### Actuary Exams
 
