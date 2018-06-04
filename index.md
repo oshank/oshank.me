@@ -18,7 +18,7 @@ Statistics and probability, Calculus, Econometrics.
 
 #### Actuary Exams
 
-  * Sitting for P in May 2018, planning to take FM in November 2018. 
+  * Sitting for P in September 2018, planning to take FM in May 2019. 
 
 #### App Developer
 
