@@ -23,13 +23,12 @@ Statistics and probability, Calculus, Econometrics.
 #### App Developer
 
 * MultiWallet for Windows Phone
-
   * Designed to interact with an API for an Online Bitcoin wallet
   * Built using C# and XAML
 
 #### Volunteer Work
 
-  * Pikes Peak Soap Box Derby, Lead Inspector, *2013-Present*
+* Pikes Peak Soap Box Derby, Lead Inspector, *2013-Present*
   * Inform and build cars with kids and families about the sport
 
 #### Service Industry
