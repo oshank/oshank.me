@@ -39,7 +39,7 @@ Statistics and probability, Calculus, Econometrics.
 
 ## Education
 
-*2013 - 2018*
+*2013 - 2019*
 Mathematics, Actuary Science, **Colorado State University**
 * Real Analysis, Probability Theory I and II, Stochastic Processes, Financial Management Theory and Applications.
 * Actuary Club
