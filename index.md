@@ -18,7 +18,7 @@ Statistics and probability, Calculus, Econometrics.
 
 #### Actuary Exams
 
-  * Sitting for P in March 2019, planning to take FM in June 2019. 
+  * Sitting for P in March 2019. 
 
 #### App Developer
 
@@ -42,5 +42,6 @@ Statistics and probability, Calculus, Econometrics.
 *2013 - 2019*
 Mathematics, Actuary Science, **Colorado State University**
 * Real Analysis, Probability Theory I and II, Stochastic Processes, Financial Management Theory and Applications.
+* Treasurer: CSU Gaming and Esports, Competitive Esports
 * Actuary Club
 * GPA: 2.5 on a 4.0 Scale
