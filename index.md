@@ -18,7 +18,7 @@ Statistics and probability, Calculus, Econometrics.
 
 #### Actuary Exams
 
-  * Sitting for P in March 2019. 
+  * Sitting for P in July 2019. 
 
 #### App Developer
 
