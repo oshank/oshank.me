@@ -29,7 +29,7 @@ Statistics and probability, Calculus, Econometrics.
 #### Volunteer Work
 
 * Pikes Peak Soap Box Derby, Lead Inspector, *2013-Present*
-  * Inform and build cars with kids and families about the sport
+  * Help build cars and inform kids and families about the sport
 
 #### Service Industry
 
