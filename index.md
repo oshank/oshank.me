@@ -4,7 +4,7 @@ Undergraduate at Colorado State University in Mathamatics with a concentration i
 
 <img src="CSU-Ram-357-2.png" width="75" height="75">
 
-oliver@shanklin.email
+oliver@shanklin.me
 
 ## Skills and Abilities
 
