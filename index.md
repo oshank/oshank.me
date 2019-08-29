@@ -33,7 +33,7 @@ Statistics and probability, Calculus, Econometrics.
 
 #### Service Industry
 
-  * Big Al’s Burgers, *2016-Present*
+  * Big Al’s Burgers, *2016-2019*
   * Mollyo’s Breakfast, *Summers 2009-2017*
 
 
@@ -45,3 +45,9 @@ Mathematics, Actuary Science, **Colorado State University**
 * Treasurer: CSU Gaming and Esports, Competitive Esports
 * Actuary Club
 * GPA: 2.5 on a 4.0 Scale
+
+### Research
+
+* CSU Sports Analytics 2019
+  * Worked with the CSU Volleyball Team
+  * Collected data for the Golf Team and Men's Basketball Team
