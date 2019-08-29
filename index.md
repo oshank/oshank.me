@@ -48,6 +48,6 @@ Mathematics, Actuary Science, **Colorado State University**
 
 ### Research
 
-* CSU Sports Analytics 2019
+* CSU Sports Analytics, *Summer 2019*
   * Worked with the CSU Volleyball Team
   * Collected data for the Golf Team and Men's Basketball Team
