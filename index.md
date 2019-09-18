@@ -14,11 +14,27 @@ R, Python (NumPy and Pandas), SQL, MongoDB, PHP, C#, Bash, Linux, MATLAB, Excel 
 
 Statistics and probability, Calculus, Econometrics.
 
+## Education
+
+*2013 - 2019*
+Mathematics, Actuary Science, **Colorado State University**
+* Real Analysis, Probability Theory I and II, Stochastic Processes, Financial Management Theory and Applications.
+* Treasurer: CSU Gaming and Esports, Competitive Esports
+* Actuary Club
+* Major GPA: 2.5 on a 4.0 Scale
+
+### Actuary Exams
+
+  * Sitting for P in November 2019.
+  * Sitting for FM in December 2019
+
+### Research
+
+* CSU Sports Analytics, *Summer 2019*
+  * Simulated schedule changes with effect on rating in Women's Volleyball
+  * Collected data for the Golf Team and Men's Basketball Team
+
 ## Experience
-
-#### Actuary Exams
-
-  * Sitting for P in July 2019. 
 
 #### App Developer
 
@@ -35,19 +51,3 @@ Statistics and probability, Calculus, Econometrics.
 
   * Big Al’s Burgers, *2016-2019*
   * Mollyo’s Breakfast, *Summers 2009-2017*
-
-
-## Education
-
-*2013 - 2019*
-Mathematics, Actuary Science, **Colorado State University**
-* Real Analysis, Probability Theory I and II, Stochastic Processes, Financial Management Theory and Applications.
-* Treasurer: CSU Gaming and Esports, Competitive Esports
-* Actuary Club
-* GPA: 2.5 on a 4.0 Scale
-
-### Research
-
-* CSU Sports Analytics, *Summer 2019*
-  * Worked with the CSU Volleyball Team
-  * Collected data for the Golf Team and Men's Basketball Team
