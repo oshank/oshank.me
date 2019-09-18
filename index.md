@@ -25,7 +25,7 @@ Mathematics, Actuary Science, **Colorado State University**
 
 ### Actuary Exams
 
-  * Sitting for P in November 2019.
+  * Sitting for P in January 2020.
   * Sitting for FM in December 2019
 
 ### Research
