@@ -33,6 +33,7 @@ Mathematics, Actuary Science, **Colorado State University**
 * CSU Sports Analytics, *Summer 2019*
   * Simulated schedule changes with effect on rating in Women's Volleyball
   * Collected data for the Golf Team and Men's Basketball Team
+  * Shiny Application: https://csuanalytics.shinyapps.io/volleyball-app/
 
 ## Experience
 
