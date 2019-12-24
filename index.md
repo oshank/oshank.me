@@ -1,6 +1,6 @@
 # Oliver Shanklin
 
-Undergraduate at Colorado State University in Mathamatics with a concentration in Actuarial Sciences.
+B.S. from Colorado State University in Mathamatics with a concentration in Actuarial Sciences, minor in Business Administration.
 
 <img src="CSU-Ram-357-2.png" width="75" height="75">
 
@@ -25,8 +25,8 @@ Mathematics, Actuary Science, **Colorado State University**
 
 ### Actuary Exams
 
-  * Sitting for P in January 2020.
-  * Sitting for FM in December 2019
+  * Sitting for P in March 2020.
+  * Sitting for FM in Febuary 2020.
 
 ### Research
 
