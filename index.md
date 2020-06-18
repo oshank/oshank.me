@@ -1,6 +1,6 @@
 # Oliver Shanklin
 
-B.S. from Colorado State University in Mathamatics with a concentration in Actuarial Sciences, minor in Business Administration.
+B.S. from Colorado State University in Mathematics with a concentration in Actuarial Sciences, minor in Business Administration.
 
 <img src="CSU-Ram-357-2.png" width="75" height="75">
 
@@ -26,7 +26,7 @@ Mathematics, Actuary Science, **Colorado State University**
 ### Actuary Exams
 
   * FM: Passed
-  * P: Sitting July 2020
+  * P: Sitting September 2020
 
 ### Research
 
