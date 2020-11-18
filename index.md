@@ -25,8 +25,8 @@ Mathematics, Actuary Science, **Colorado State University**
 
 ### Actuary Exams
 
+  * P: Passed
   * FM: Passed
-  * P: Sitting November 2020
 
 ### Research
 
