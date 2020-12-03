@@ -6,11 +6,16 @@ B.S. from Colorado State University in Mathematics with a concentration in Actua
 
 oliver.shanklin@gmail.com
 
+### Actuary Exams
+
+  * P: Passed
+  * FM: Passed
+
 ## Skills and Abilities
 
 **Proficiencies:**
 
-R, Python (NumPy and Pandas), SQL, MongoDB, PHP, C#, Bash, Linux, MATLAB, Excel (VBA), Angular.js, TI Basic.
+R (tidyverse), Python (NumPy and Pandas), Excel (VBA), SQL, MongoDB, C#, Bash, Linux, MATLAB, Angular.js, TI Basic.
 
 Statistics and probability, Calculus, Econometrics.
 
@@ -22,11 +27,6 @@ Mathematics, Actuary Science, **Colorado State University**
 * Treasurer: CSU Gaming and Esports, Competitive Esports
 * Actuary Club
 * Major GPA: 2.5 on a 4.0 Scale
-
-### Actuary Exams
-
-  * P: Passed
-  * FM: Passed
 
 ### Research
 
@@ -45,8 +45,9 @@ Mathematics, Actuary Science, **Colorado State University**
 
 #### Volunteer Work
 
-* Pikes Peak Soap Box Derby, Lead Inspector, *2013-Present*
+* Pikes Peak Soap Box Derby, Lead Inspector and Social Media Coordinator, *2013-Present*
   * Help build cars and inform kids and families about the sport
+  * Manage website and Facebook Page
 
 #### Service Industry
 
