@@ -15,7 +15,7 @@ oliver.shanklin@gmail.com
 
 **Proficiencies:**
 
-R (tidyverse), Python (Django, NumPy, Pandas), Excel (VBA), SQL, C#, Bash, Linux, MATLAB, Angular.js, TI Basic.
+R (tidyverse), Python (Django, NumPy, Pandas), Docker, Excel (VBA), SQL, C#, Bash, Linux, MATLAB, TI Basic.
 
 Statistics and probability, Calculus, Econometrics.
 
@@ -40,10 +40,14 @@ Mathematics, Actuary Science, **Colorado State University**
 ### Data Analyst / IT Systems Support
 #### Arapahoe County CAPS *Feb 2021 - Present*
 
-* Built and Maintained a Support Ticket Application
+* Built and Maintain a Support Ticket Application and Complaint Tracking database
   * Django Based
   * MSSQL Connection to outside database
-  * Active Directory Login for Employees 
+  * Active Directory Login for Employees
+* Various data collection projects
+  * Gathering and cleaning data from various sources
+  * Creating visuals
+  * Providing results to upper management
 * General IT Support for Employees
   * Helped resolved small tech issues related Internal Case Management Software, MS Teams, Outlook
 
