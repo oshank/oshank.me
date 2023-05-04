@@ -6,6 +6,8 @@ B.S. from Colorado State University in Mathematics with a concentration in Actua
 
 oliver.shanklin@gmail.com
 
+<a rel="me" href="https://mstdn.party/@oshank">Mastodon</a>
+
 ### Actuary Exams
 
   * P: Passed
